@@ -43,7 +43,7 @@ public class FragmentOne extends Fragment {
 
         ImageView iv = (ImageView) view.findViewById(R.id.imageViewOne);
         iv.setImageResource(image);
-        iv.setAlpha(setAlpha);//sets the alpha value directly for the image
+        iv.setAlpha(setAlpha); //sets the alpha value directly for the image
 
         return view;
     }

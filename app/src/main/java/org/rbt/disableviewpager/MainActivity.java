@@ -9,6 +9,9 @@ import android.widget.Switch;
 import org.rbt.utils.CustomViewPager;
 import org.rbt.utils.MyPagerAdapter;
 
+/**
+ * Main activity class
+ */
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "DISABLE_VIEW_PAGER";
